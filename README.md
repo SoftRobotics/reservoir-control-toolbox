@@ -30,14 +30,14 @@ The Reservoir Control Toolbox is published under the MIT License.
  */
  ```
  
- ## History
+ ##History
  
  The Reservoir Control Toolbox developed by René Bernhardsgrütter and 
  Christoph W. Senn as part of their Bachelor's Thesis at Zurich University of Applied 
  Sciences under the supervision of Dr. Rudolf M. Füchslin, Dr. Christian Jaeger and 
  Dr. Helmut Hauser and in scientific cooperation with University of Zurich and ETH Zurich.
  
- ## Third-Party Components
+ ##Third-Party Components
  
  This software contains the following third-party software components:
  * [FAMFAMFAM Silk Icons](http://www.famfamfam.com/lab/icons/silk/), published under the terms of the [Creative Commons License (Attribution 2.5 Generic)](https://creativecommons.org/licenses/by/2.5/).
