@@ -1,6 +1,7 @@
 Reservoir Control Toolbox
 =========================
-The Reservoir Control Toolbox allwos to generate mass-spring networks and initialize the Physics Toolbox.
+The Reservoir Control Toolbox allwos to generate mass-spring networks and 
+initialize the Physics Toolbox.
 
 ## Licenses
 The Reservoir Control Toolbox is published under the MIT License.
@@ -31,9 +32,11 @@ The Reservoir Control Toolbox is published under the MIT License.
 
 ### History
 The Reservoir Control Toolbox developed by René Bernhardsgrütter and 
-Christoph W. Senn as part of their Bachelor's Thesis at Zurich University of Applied 
-Sciences under the supervision of Dr. Rudolf M. Füchslin, Dr. Christian Jaeger and 
-Dr. Helmut Hauser and in scientific cooperation with University of Zurich and ETH Zurich.
+Christoph W. Senn as part of their Bachelor's Thesis at 
+(Zurich University of Applied Sciences)[http://www.zhaw.ch/] under the supervision 
+of Dr. Rudolf M. Füchslin, Dr. Christian Jaeger and Dr. Helmut Hauser and in 
+scientific cooperation with (University of Zurich)[https://www.uzh.ch/index.html] 
+and (ETH Zurich)[https://www.ethz.ch/].
 
 ### Third-Party Components 
 This software contains the following third-party software components:
