@@ -2,11 +2,11 @@ Reservoir Control Toolbox
 =========================
 The Reservoir Control Toolbox allwos to generate mass-spring networks and initialize the Physics Toolbox.
 
-# Licenses
+## Licenses
 The Reservoir Control Toolbox is published under the MIT License.
 ```
 /*
- * Copyright © 2014 René Bernhardsgrütter, Christoph Walter Senn at Zurich
+ * Copyright (C) 2014 René Bernhardsgrütter, Christoph Walter Senn at Zurich
  * University of Applied Sciences; 2014 Helmut Hauser at University of Zurich
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -28,14 +28,14 @@ The Reservoir Control Toolbox is published under the MIT License.
  * SOFTWARE.
 */
 ```
- 
-## History
+
+### History
 The Reservoir Control Toolbox developed by René Bernhardsgrütter and 
 Christoph W. Senn as part of their Bachelor's Thesis at Zurich University of Applied 
 Sciences under the supervision of Dr. Rudolf M. Füchslin, Dr. Christian Jaeger and 
 Dr. Helmut Hauser and in scientific cooperation with University of Zurich and ETH Zurich.
 
-## Third-Party Components 
+### Third-Party Components 
 This software contains the following third-party software components:
 * [FAMFAMFAM Silk Icons](http://www.famfamfam.com/lab/icons/silk/), published under the terms of the [Creative Commons License (Attribution 2.5 Generic)](https://creativecommons.org/licenses/by/2.5/).
 * Apache Commons [IO](https://commons.apache.org/proper/commons-io/), and [Math](https://commons.apache.org/proper/commons-math/), published under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), [CLI](https://commons.apache.org/proper/commons-cli/), published under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
