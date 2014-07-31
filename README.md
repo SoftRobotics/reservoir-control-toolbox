@@ -38,4 +38,4 @@ Dr. Helmut Hauser and in scientific cooperation with University of Zurich and ET
 ### Third-Party Components 
 This software contains the following third-party software components:
 * [FAMFAMFAM Silk Icons](http://www.famfamfam.com/lab/icons/silk/), published under the terms of the [Creative Commons License (Attribution 2.5 Generic)](https://creativecommons.org/licenses/by/2.5/).
-* Apache Commons [IO](https://commons.apache.org/proper/commons-io/), and [Math](https://commons.apache.org/proper/commons-math/), published under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), [CLI](https://commons.apache.org/proper/commons-cli/), published under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+* Apache Commons [IO](https://commons.apache.org/proper/commons-io/), and [Math](https://commons.apache.org/proper/commons-math/), and [CLI](https://commons.apache.org/proper/commons-cli/), published under the terms of the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
